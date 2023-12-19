@@ -21,8 +21,6 @@ Exploratory Data Analysis (EDA): I performed in-depth exploratory data analysis 
 
 Tools and Techniques Used: I leveraged Python libraries such as NumPy, pandas, seaborn, and Matplotlib for data analysis and visualization. Additionally, I applied machine learning techniques for data preprocessing tasks. Impact: The project's outcomes have contributed to a cleaner and more structured dataset, making it suitable for various data-driven tasks. This includes developing predictive models, recommendations, or further in-depth analysis of app ratings.
 
-Skills: Statistical Analysis · Exploratory Data Analysis · NumPy · Machine Learning · Seaborn · Matplotlib · pandas · Python (Programming Language)
-
 Collaboration and Feedback:
 
 I'm open to collaboration and feedback! If you have any questions, suggestions, or would like to work together on a project, feel free to reach out through GitHub or email me at aneeshwarpmech@gmail.com
